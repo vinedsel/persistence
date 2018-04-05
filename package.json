@@ -1,0 +1,19 @@
+{
+  "name": "persistence",
+  "version": "1.0.0",
+  "description": "Project for integrating SQL tables into the server side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinedsel/persistence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinedsel/persistence/issues"
+  },
+  "homepage": "https://github.com/vinedsel/persistence#readme"
+}

@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/vinedsel/persistence/issues"
   },
-  "homepage": "https://github.com/vinedsel/persistence#readme"
+  "homepage": "https://github.com/vinedsel/persistence#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "sqlite3": "^4.0.0"
+  }
 }
